@@ -1,0 +1,12 @@
+{
+ "name":"Air Hiss Limits",
+ "interpreter":"Rscript",
+ "executable":"ahl.R",
+ "args":"",
+ "options":
+ {
+	 "path to lookupfile":"freetext",
+	 "field to search":"freetext",
+	 "fuzz threshold":"freetext"
+ }
+}
