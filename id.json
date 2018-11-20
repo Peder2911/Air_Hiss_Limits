@@ -7,6 +7,6 @@
  {
 	 "path to lookupfile":"freetext",
 	 "field to search":"freetext",
-	 "fuzz threshold":"freetext"
+	 "fuzz function":"listmenu ratio,partial,sort,set" 
  }
 }
